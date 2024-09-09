@@ -11,7 +11,7 @@ Part 2 <br />
 [AI Pair Programming utilizing GitHub CoPilot](https://www.youtube.com/watch?v=9zkONMcabEY) <br />
 [AI Pair Programming Repo](https://github.com/NisargPraj/AI-Pair-Programming.git)
 <br />
-This Project is an experiment with the an AI Pair Programming tool, GitHub CoPilot, which was utilized to create a simple full stack django project of Task Management.
+This project is an experiment with the an AI Pair Programming tool, GitHub CoPilot, which was utilized to create a simple full stack django project of Task Management.
 
 <br /><br />
 Part 3 <br />
