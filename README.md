@@ -6,7 +6,7 @@ Part 1 <br />
 
 [Advanced Colab Implementation](https://colab.research.google.com/drive/1R5UfGKiwbiKO3Gl0RmZec5vNobuVcCiv#scrollTo=HhQ5FBhSP5d0)
 
-<br />
+<br /><br />
 Part 2 <br />
 [AI Pair Programming utilizing GitHub CoPilot](https://www.youtube.com/watch?v=9zkONMcabEY)
 <br />
