@@ -12,7 +12,7 @@ Part 2 <br />
 <br />
 This Project is an experiment with the an AI Pair Programming tool, GitHub CoPilot, which was utilized to create a simple full stack django project of Task Management.
 
-<br />
+<br /><br />
 Part 3 <br />
 [Akkio AI EndtoEnd ML Project Implementation](https://www.youtube.com/watch?v=P5RLzNrZvFk)
 <br />
