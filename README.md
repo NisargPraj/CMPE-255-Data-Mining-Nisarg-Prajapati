@@ -8,8 +8,8 @@ Part 1 <br />
 
 <br />
 Part 2 <br />
-[AI Pair Programming utilizing GitHub CoPilot](https://shorturl.at/l5RdF)
+[AI Pair Programming utilizing GitHub CoPilot](https://www.youtube.com/watch?v=9zkONMcabEY)
 
 <br />
 Part 3 <br />
-[Akkio AI EndtoEnd ML Project Implementation](https://www.youtube.com/watch?v=P5RLzNrZvFk/)
+[Akkio AI EndtoEnd ML Project Implementation](https://www.youtube.com/watch?v=P5RLzNrZvFk)
