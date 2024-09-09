@@ -8,7 +8,7 @@ Part 1 <br />
 
 <br />
 Part 2 <br />
-[AI Pair Programming utilizing GitHub CoPilot](https://www.youtube.com/watch?v=9zkONMcabEY)
+[ AI Pair Programming utilizing GitHub CoPilot ](https://www.youtube.com/watch?v=9zkONMcabEY)
 
 <br />
 Part 3 <br />
