@@ -8,4 +8,4 @@ Part 1 <br />
 
 <br />
 Part 3 <br />
-[Akkio AI End-to-End ML Project Implementation](https://www.youtube.com/watch?v=P5RLzNrZvFk&t=5s&ab_channel=NisargPrajapati)
+[Akkio AI EndtoEnd ML Project Implementation](https://www.youtube.com/watch?v=P5RLzNrZvFk&t=5s&ab_channel=NisargPrajapati)
