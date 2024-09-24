@@ -7,22 +7,22 @@ This repository contains various data mining tasks implemented using PyCaret. Ea
 The project includes the following topics:
 
 1. **Binary Classification**
-   - [Watch the video](https://www.youtube.com/link-to-binary-classification-video)
+   - [Watch the video](https://youtu.be/lGSWrOnY3D0)
 
 2. **Multiclass Classification**
-   - [Watch the video](https://www.youtube.com/link-to-multiclass-classification-video)
+   - [Watch the video](https://youtu.be/BuVDT0MtfEQ)
 
 3. **Anomaly Detection**
    - [Watch the video](https://youtu.be/sn5JbwwK1yQ)
 
 4. **Time Series Forecasting**
-   - [Watch the video](https://www.youtube.com/link-to-time-series-forecasting-video)
+   - [Watch the video](https://youtu.be/-uMVvFnx6rA)
 
 5. **Regression**
-   - [Watch the video](https://www.youtube.com/link-to-regression-video)
+   - [Watch the video](https://youtu.be/5mHU8_GWmPY)
 
 6. **Clustering**
-   - [Watch the video](https://www.youtube.com/link-to-clustering-video)
+   - [Watch the video](https://youtu.be/eWdpY5MGF8g)
 
 7. **Association Rule Mining**
    - [Watch the video](https://youtu.be/z1maQ_wvvRQ)
