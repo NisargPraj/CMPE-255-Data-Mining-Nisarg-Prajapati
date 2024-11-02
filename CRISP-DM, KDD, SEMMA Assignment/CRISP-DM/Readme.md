@@ -36,11 +36,6 @@ This assignment leverages the **CRISP-DM (Cross-Industry Standard Process for Da
 - [Google Colab Notebook](https://colab.research.google.com/drive/1sEZMhF6qH2surhEmtoJp5FfMJEFnsaVz?usp=sharing)
 - [Medium Article](https://medium.com/@nisargprajapati281/maximizing-gym-member-engagement-a-data-mining-journey-using-the-crisp-dm-methodology-08f420930121)
 
-## Deliverables
-- **Colab Notebook**: Code implementing each CRISP-DM phase for the gym members' exercise tracking dataset.
-- **Medium Article**: A comprehensive article explaining the CRISP-DM methodology as applied to this analysis.
-- **Research Paper**: A detailed report in LaTeX format, summarizing methodology, results, and key insights.
-
 ## Conclusion
 By following the CRISP-DM methodology, this assignment achieved a structured and effective analysis of gym members' exercise data. The resulting insights can assist gyms in tailoring their programs to better meet members' fitness goals, ultimately promoting healthier lifestyles.
 
