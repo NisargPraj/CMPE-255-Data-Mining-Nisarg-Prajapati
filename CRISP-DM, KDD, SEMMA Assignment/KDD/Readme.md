@@ -31,10 +31,6 @@ This assignment applies the **KDD (Knowledge Discovery in Databases)** methodolo
 - [Google Colab Notebook](https://colab.research.google.com/drive/133zR9SCQmnILrJjTGP0yXZyM9z3JJuFO?usp=sharing)
 - [Medium Article](https://medium.com/@nisargprajapati281/predicting-diabetes-with-data-mining-a-deep-dive-using-the-kdd-methodology-8e3ca09efef1)
 
-## Deliverables
-- **Colab Notebook**: Code implementing each KDD phase for the diabetes prediction analysis.
-- **Medium Article**: A detailed article describing the KDD methodology applied to diabetes prediction.
-- **Research Paper**: A comprehensive report in LaTeX format, summarizing the methodology, key results, and insights from the diabetes analysis.
 
 ## Conclusion
 By implementing the KDD methodology, this assignment achieved accurate and interpretable results in predicting diabetes onset. The systematic approach helped reveal critical health indicators affecting diabetes, supporting healthcare professionals in developing preventive measures and personalized treatments.
