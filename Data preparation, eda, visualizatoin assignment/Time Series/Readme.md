@@ -11,7 +11,7 @@ This project involves time series forecasting using the **Seattle Weather Datase
 2. **Data Preprocessing**:
    - Handled missing values using forward fill.
    - Normalized numerical features.
-
+ 
 3. **Modeling**:
    - Built and evaluated two forecasting models:
      - **ARIMA**
