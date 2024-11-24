@@ -12,6 +12,7 @@ This repository contains an implementation of the K-Means clustering algorithm f
 
 ---
 
-## Colab Notebook
-- [K-Means Clustering](https://colab.research.google.com/drive/1JiBeGu_5rh5rlxNMBj09uGnooxMXlzaS?usp=sharing)
+## Links
+- [Google Colab Notebook](https://colab.research.google.com/drive/1JiBeGu_5rh5rlxNMBj09uGnooxMXlzaS?usp=sharing)
+- [Youtube Video]()
 
