@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates DB Scan clustering using the PyCaret library. It showcases the algorithm's ability to identify clusters and handle noise in a dataset.
 
----
+--- 
 
 ## Features
 - DBSCAN clustering implementation using PyCaret.
