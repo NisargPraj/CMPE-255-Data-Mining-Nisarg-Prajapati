@@ -1,7 +1,7 @@
 
 
 
-# **Dimensionality Reduction Techniques - Data Mining Assignment**
+# **Advanced Dimensionality Reduction Techniques**
 
 ## **Introduction**
 
@@ -32,61 +32,61 @@ A variety of datasets were used to showcase each dimensionality reduction techni
 
 - **Dataset:** Wine Dataset
 - **Description:** An efficient approximation of PCA for large datasets.
-- **Notebook Section:** [Randomized PCA on Wine Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=6crWCP3zBdcV)
+- **Notebook Section:** [Randomized PCA on Wine Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=2knflH9sBfFA)
 
 ### **2. Kernel PCA**
 
 - **Dataset:** Two Moons Dataset
 - **Description:** Extends PCA to capture nonlinear structures using kernel methods.
-- **Notebook Section:** [Kernel PCA on Two Moons Dataset]([notebooks/Dimensionality_Reduction.ipynb#Kernel-PCA-on-the-Moons-Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing))
+- **Notebook Section:** [Kernel PCA on Two Moons Dataset]((https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=HQ-sHaBOCCHl))
 
 ### **3. Incremental PCA**
 
 - **Dataset:** MNIST Digits Dataset
 - **Description:** Processes data in batches for large datasets.
-- **Notebook Section:** [Incremental PCA on MNIST Digits Dataset](notebooks/Dimensionality_Reduction.ipynb#Incremental-PCA-on-the-MNIST-Dataset)
+- **Notebook Section:** [Incremental PCA on MNIST Digits Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=S-MS0FWGCMyR)
 
 ### **4. Factor Analysis**
 
 - **Dataset:** Breast Cancer Wisconsin Dataset
 - **Description:** Models observed variables as linear combinations of potential factors.
-- **Notebook Section:** [Factor Analysis on Breast Cancer Dataset](notebooks/Dimensionality_Reduction.ipynb#Factor-Analysis-on-the-Breast-Cancer-Dataset)
+- **Notebook Section:** [Factor Analysis on Breast Cancer Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=H_j7SyYICagr)
 
 ### **5. t-SNE with Interactive Visualization**
 
 - **Dataset:** Fashion-MNIST Dataset
 - **Description:** Visualizes high-dimensional data in 2D or 3D space, preserving local structure.
-- **Notebook Section:** [t-SNE on Fashion-MNIST Dataset](notebooks/Dimensionality_Reduction.ipynb#t-SNE-with-Interactive-Visualization-on-the-Fashion-MNIST-Dataset)
+- **Notebook Section:** [t-SNE on Fashion-MNIST Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=6LKsI037ClDz)
 
 ### **6. UMAP with Interactive Visualization**
 
 - **Dataset:** Olivetti Faces Dataset
 - **Description:** Preserves both local and global structure in data visualization.
-- **Notebook Section:** [UMAP on Olivetti Faces Dataset](notebooks/Dimensionality_Reduction.ipynb#UMAP-with-Interactive-Visualization-on-the-Olivetti-Faces-Dataset)
+- **Notebook Section:** [UMAP on Olivetti Faces Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=sXhmJAcXC2bP)
 
 ### **7. Isomap**
 
 - **Dataset:** Swiss Roll Dataset
 - **Description:** Maintains geodesic distances to capture the underlying manifold.
-- **Notebook Section:** [Isomap on Swiss Roll Dataset](notebooks/Dimensionality_Reduction.ipynb#Isomap-on-the-Swiss-Roll-Dataset)
+- **Notebook Section:** [Isomap on Swiss Roll Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=CQ7FI77KDBgQ)
 
 ### **8. Locally Linear Embedding (LLE)**
 
 - **Dataset:** S-Curve Dataset
 - **Description:** Preserves local neighborhood information to unfold manifolds.
-- **Notebook Section:** [LLE on S-Curve Dataset](notebooks/Dimensionality_Reduction.ipynb#Locally-Linear-Embedding-LLE-on-the-S-curve-Dataset)
+- **Notebook Section:** [LLE on S-Curve Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=CGwfs7dJDPlv)
 
 ### **9. Multidimensional Scaling (MDS)**
 
 - **Dataset:** Iris Dataset
 - **Description:** Attempts to preserve pairwise distances between data points.
-- **Notebook Section:** [MDS on Iris Dataset](notebooks/Dimensionality_Reduction.ipynb#Multidimensional-Scaling-MDS-on-the-Iris-Dataset)
+- **Notebook Section:** [MDS on Iris Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=-D56BTsbDZVH)
 
 ### **10. Autoencoders**
 
 - **Dataset:** Pima Indians Diabetes Dataset
 - **Description:** Neural networks that learn efficient data representations in an unsupervised manner.
-- **Notebook Section:** [Autoencoder on Pima Indians Diabetes Dataset](notebooks/Dimensionality_Reduction.ipynb#Autoencoders-on-the-Pima-Indians-Diabetes-Dataset)
+- **Notebook Section:** [Autoencoder on Pima Indians Diabetes Dataset](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing#scrollTo=N7xMdWXMDi8S)
 
 ---
 
@@ -123,7 +123,7 @@ Interactive visualizations have been incorporated using Plotly and ipywidgets to
 
 ## **Results and Analysis**
 
-The detailed results and analysis for each technique are included in the [Dimensionality_Reduction.ipynb](notebooks/Dimensionality_Reduction.ipynb) notebook. Commentary is provided after each technique, discussing:
+The detailed results and analysis for each technique are included in the [Dimensionality_Reduction.ipynb](https://colab.research.google.com/drive/1QcwvtkllAH1WT57okBWreCO-uMPRgBVo?usp=sharing) notebook. Commentary is provided for each technique, discussing:
 
 - The effectiveness of the technique on the chosen dataset.
 - Observations about the visualizations and any patterns identified.
@@ -133,28 +133,3 @@ The detailed results and analysis for each technique are included in the [Dimens
 A comparative analysis summarizing the strengths and weaknesses of each method is included towards the end of the notebook.
 
 ---
-
-## **How to Run the Code**
-
-### **Prerequisites**
-
-- Python 3.x
-- Google Colab or a local Jupyter environment
-- Required Python libraries:
-  - `numpy`
-  - `pandas`
-  - `matplotlib`
-  - `seaborn`
-  - `scikit-learn`
-  - `tensorflow`
-  - `keras`
-  - `umap-learn`
-  - `plotly`
-  - `ipywidgets`
-
-### **Steps**
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
