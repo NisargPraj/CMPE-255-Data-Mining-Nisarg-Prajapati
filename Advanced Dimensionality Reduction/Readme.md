@@ -133,3 +133,8 @@ The detailed results and analysis for each technique are included in the [Dimens
 A comparative analysis summarizing the strengths and weaknesses of each method is included towards the end of the notebook.
 
 ---
+
+## **Video Explanation**
+[Video](https://youtu.be/gcKR-pJS-Yo)
+
+---
